@@ -1,0 +1,4 @@
+# Project exclude paths
+/cdc/target/
+/out/
+/realtime/target/

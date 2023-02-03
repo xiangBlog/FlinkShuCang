@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../../大数据开发/2021年大数据116.72g/20、实时数仓/2.资料/gmall2020_12_08.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../大数据开发/2021年大数据116.72g/20、实时数仓/2.资料/table_process初始配置.sql" dialect="MySQL" />
+  </component>
+</project>
